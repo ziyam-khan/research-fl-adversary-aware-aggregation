@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 .venv/
 data/
+# Keep personal documents out of the repository
+*.pdf
+*.doc
+*.docx
+*.jpg
+*.jpeg
+*.zip
+.env
