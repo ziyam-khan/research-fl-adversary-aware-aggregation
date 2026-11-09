@@ -1,0 +1,5 @@
+# Versions used for the original runs were not recorded.
+torch
+torchvision
+numpy
+matplotlib

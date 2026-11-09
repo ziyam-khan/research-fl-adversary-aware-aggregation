@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "Adversary-Aware Aggregation for Federated Learning on Contested Edge Networks"
+type: software
+authors:
+  - family-names: Khan
+    given-names: Ziyam
+    affiliation: Parul University
+    orcid: "https://orcid.org/0009-0000-1943-8481"
+repository-code: "https://github.com/ziyam-khan/research-fl-adversary-aware-aggregation"
+license: MIT
+version: 1.0.0
+date-released: "2026-11-09"
+keywords:
+  - federated learning
+  - adversarial machine learning
+  - client suppression
+  - robust aggregation
+preferred-citation:
+  type: conference-paper
+  title: "Adversary-Aware Aggregation for Federated Learning on Contested Edge Networks"
+  authors:
+    - family-names: Khan
+      given-names: Ziyam
+  collection-title: "Proceedings of the 1st International Conference on Computing, Communication, and Artificial Intelligence (IC3AI)"
+  year: 2027
